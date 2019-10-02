@@ -3,4 +3,5 @@ hogetest
 
 gitVSvcode連携確認
 
+BranchA
 BranchB
